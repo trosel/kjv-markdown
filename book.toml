@@ -1,0 +1,14 @@
+[book]
+authors = ["trosel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "King James Bible"
+
+[build]
+build-dir = "bible"
+
+[output.html.fold]
+enable = true
+
+
