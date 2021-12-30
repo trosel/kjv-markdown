@@ -6,7 +6,7 @@ src = "src"
 title = "King James Bible"
 
 [build]
-build-dir = "bible"
+build-dir = "docs"
 
 [output.html.fold]
 enable = true

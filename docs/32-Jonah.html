@@ -1,0 +1,284 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Jonah - King James Bible</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item affix "><a href="index.html">King James Bible</a></li><li class="chapter-item affix "><li class="part-title">Law of Moses</li><li class="chapter-item "><a href="01-Genesis.html"><strong aria-hidden="true">1.</strong> Genesis</a></li><li class="chapter-item "><a href="02-Exodus.html"><strong aria-hidden="true">2.</strong> Exodus</a></li><li class="chapter-item "><a href="03-Leviticus.html"><strong aria-hidden="true">3.</strong> Leviticus</a></li><li class="chapter-item "><a href="04-Numbers.html"><strong aria-hidden="true">4.</strong> Numbers</a></li><li class="chapter-item "><a href="05-Deuteronomy.html"><strong aria-hidden="true">5.</strong> Deuteronomy</a></li><li class="chapter-item affix "><li class="part-title">Histories</li><li class="chapter-item "><a href="06-Joshua.html"><strong aria-hidden="true">6.</strong> Joshua</a></li><li class="chapter-item "><a href="07-Judges.html"><strong aria-hidden="true">7.</strong> Judges</a></li><li class="chapter-item "><a href="08-Ruth.html"><strong aria-hidden="true">8.</strong> Ruth</a></li><li class="chapter-item "><a href="09-1Samuel.html"><strong aria-hidden="true">9.</strong> 1 Samuel</a></li><li class="chapter-item "><a href="10-2Samuel.html"><strong aria-hidden="true">10.</strong> 2 Samuel</a></li><li class="chapter-item "><a href="11-1Kings.html"><strong aria-hidden="true">11.</strong> 1 Kings</a></li><li class="chapter-item "><a href="12-2Kings.html"><strong aria-hidden="true">12.</strong> 2 Kings</a></li><li class="chapter-item "><a href="13-1Chronicles.html"><strong aria-hidden="true">13.</strong> 1 Chronicles</a></li><li class="chapter-item "><a href="14-2Chronicles.html"><strong aria-hidden="true">14.</strong> 2 Chronicles</a></li><li class="chapter-item "><a href="15-Ezra.html"><strong aria-hidden="true">15.</strong> Ezra</a></li><li class="chapter-item "><a href="16-Nehemiah.html"><strong aria-hidden="true">16.</strong> Nehemiah</a></li><li class="chapter-item "><a href="17-Esther.html"><strong aria-hidden="true">17.</strong> Esther</a></li><li class="chapter-item affix "><li class="part-title">Wisdom</li><li class="chapter-item "><a href="18-Job.html"><strong aria-hidden="true">18.</strong> Job</a></li><li class="chapter-item "><a href="19-Psalms.html"><strong aria-hidden="true">19.</strong> Psalms</a></li><li class="chapter-item "><a href="20-Proverbs.html"><strong aria-hidden="true">20.</strong> Proverbs</a></li><li class="chapter-item "><a href="21-Ecclesiastes.html"><strong aria-hidden="true">21.</strong> Ecclesiastes</a></li><li class="chapter-item "><a href="22-TheSongofSolomon.html"><strong aria-hidden="true">22.</strong> The Song of Solomon</a></li><li class="chapter-item affix "><li class="part-title">Prophesy</li><li class="chapter-item "><a href="23-Isaiah.html"><strong aria-hidden="true">23.</strong> Isaiah</a></li><li class="chapter-item "><a href="24-Jeremiah.html"><strong aria-hidden="true">24.</strong> Jeremiah</a></li><li class="chapter-item "><a href="25-Lamentations.html"><strong aria-hidden="true">25.</strong> Lamentations</a></li><li class="chapter-item "><a href="26-Ezekiel.html"><strong aria-hidden="true">26.</strong> Ezekiel</a></li><li class="chapter-item "><a href="27-Daniel.html"><strong aria-hidden="true">27.</strong> Daniel</a></li><li class="chapter-item "><a href="28-Hosea.html"><strong aria-hidden="true">28.</strong> Hosea</a></li><li class="chapter-item "><a href="29-Joel.html"><strong aria-hidden="true">29.</strong> Joel</a></li><li class="chapter-item "><a href="30-Amos.html"><strong aria-hidden="true">30.</strong> Amos</a></li><li class="chapter-item "><a href="31-Obadiah.html"><strong aria-hidden="true">31.</strong> Obadiah</a></li><li class="chapter-item expanded "><a href="32-Jonah.html" class="active"><strong aria-hidden="true">32.</strong> Jonah</a></li><li class="chapter-item "><a href="33-Micah.html"><strong aria-hidden="true">33.</strong> Micah</a></li><li class="chapter-item "><a href="34-Nahum.html"><strong aria-hidden="true">34.</strong> Nahum</a></li><li class="chapter-item "><a href="35-Habakkuk.html"><strong aria-hidden="true">35.</strong> Habakkuk</a></li><li class="chapter-item "><a href="36-Zephaniah.html"><strong aria-hidden="true">36.</strong> Zephaniah</a></li><li class="chapter-item "><a href="37-Haggai.html"><strong aria-hidden="true">37.</strong> Haggai</a></li><li class="chapter-item "><a href="38-Zechariah.html"><strong aria-hidden="true">38.</strong> Zechariah</a></li><li class="chapter-item "><a href="39-Malachi.html"><strong aria-hidden="true">39.</strong> Malachi</a></li><li class="spacer"></li><li class="chapter-item affix "><li class="part-title">Law of Jesus</li><li class="chapter-item "><a href="40-Matthew.html"><strong aria-hidden="true">40.</strong> Matthew</a></li><li class="chapter-item "><a href="41-Mark.html"><strong aria-hidden="true">41.</strong> Mark</a></li><li class="chapter-item "><a href="42-Luke.html"><strong aria-hidden="true">42.</strong> Luke</a></li><li class="chapter-item "><a href="43-John.html"><strong aria-hidden="true">43.</strong> John</a></li><li class="chapter-item affix "><li class="part-title">Histories</li><li class="chapter-item "><a href="44-Acts.html"><strong aria-hidden="true">44.</strong> Acts</a></li><li class="chapter-item affix "><li class="part-title">Wisdom</li><li class="chapter-item "><a href="45-Romans.html"><strong aria-hidden="true">45.</strong> Romans</a></li><li class="chapter-item "><a href="46-1Corinthians.html"><strong aria-hidden="true">46.</strong> 1 Corinthians</a></li><li class="chapter-item "><a href="47-2Corinthians.html"><strong aria-hidden="true">47.</strong> 2 Corinthians</a></li><li class="chapter-item "><a href="48-Galatians.html"><strong aria-hidden="true">48.</strong> Galatians</a></li><li class="chapter-item "><a href="49-Ephesians.html"><strong aria-hidden="true">49.</strong> Ephesians</a></li><li class="chapter-item "><a href="50-Philippians.html"><strong aria-hidden="true">50.</strong> Philippians</a></li><li class="chapter-item "><a href="51-Colossians.html"><strong aria-hidden="true">51.</strong> Colossians</a></li><li class="chapter-item "><a href="52-1Thessalonians.html"><strong aria-hidden="true">52.</strong> 1 Thessalonians</a></li><li class="chapter-item "><a href="53-2Thessalonians.html"><strong aria-hidden="true">53.</strong> 2 Thessalonians</a></li><li class="chapter-item "><a href="54-1Timothy.html"><strong aria-hidden="true">54.</strong> 1 Timothy</a></li><li class="chapter-item "><a href="55-2Timothy.html"><strong aria-hidden="true">55.</strong> 2 Timothy</a></li><li class="chapter-item "><a href="56-Titus.html"><strong aria-hidden="true">56.</strong> Titus</a></li><li class="chapter-item "><a href="57-Philemon.html"><strong aria-hidden="true">57.</strong> Philemon</a></li><li class="chapter-item "><a href="58-Hebrews.html"><strong aria-hidden="true">58.</strong> Hebrews</a></li><li class="chapter-item "><a href="59-James.html"><strong aria-hidden="true">59.</strong> James</a></li><li class="chapter-item "><a href="60-1Peter.html"><strong aria-hidden="true">60.</strong> 1 Peter</a></li><li class="chapter-item "><a href="61-2Peter.html"><strong aria-hidden="true">61.</strong> 2 Peter</a></li><li class="chapter-item "><a href="62-1John.html"><strong aria-hidden="true">62.</strong> 1 John</a></li><li class="chapter-item "><a href="63-2John.html"><strong aria-hidden="true">63.</strong> 2 John</a></li><li class="chapter-item "><a href="64-3John.html"><strong aria-hidden="true">64.</strong> 3 John</a></li><li class="chapter-item "><a href="65-Jude.html"><strong aria-hidden="true">65.</strong> Jude</a></li><li class="chapter-item affix "><li class="part-title">Prophesy</li><li class="chapter-item "><a href="66-Revelation.html"><strong aria-hidden="true">66.</strong> Revelation</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">King James Bible</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#jonah" id="jonah">Jonah</a></h1>
+<h2><a class="header" href="#jonah-chapter-1" id="jonah-chapter-1">Jonah Chapter 1</a></h2>
+<p>1 Now the word of the Lord came unto Jonah the son of Amittai, saying,</p>
+<p>2 Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.</p>
+<p>3 But Jonah rose up to flee unto Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the Lord.</p>
+<p>4 But the Lord sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.</p>
+<p>5 Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.</p>
+<p>6 So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.</p>
+<p>7 And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.</p>
+<p>8 Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?</p>
+<p>9 And he said unto them, I am an Hebrew; and I fear the Lord, the God of heaven, which hath made the sea and the dry land.</p>
+<p>10 Then were the men exceedingly afraid, and said unto him. Why hast thou done this? For the men knew that he fled from the presence of the Lord, because he had told them.</p>
+<p>11 Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.</p>
+<p>12 And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.</p>
+<p>13 Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.</p>
+<p>14 Wherefore they cried unto the Lord, and said, We beseech thee, O Lord, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O Lord, hast done as it pleased thee.</p>
+<p>15 So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.</p>
+<p>16 Then the men feared the Lord exceedingly, and offered a sacrifice unto the Lord, and made vows.</p>
+<p>17 Now the Lord had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.</p>
+<h2><a class="header" href="#jonah-chapter-2" id="jonah-chapter-2">Jonah Chapter 2</a></h2>
+<p>1 Then Jonah prayed unto the Lord his God out of the fish's belly,</p>
+<p>2 And said, I cried by reason of mine affliction unto the Lord, and he heard me; out of the belly of hell cried I, and thou heardest my voice.</p>
+<p>3 For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.</p>
+<p>4 Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.</p>
+<p>5 The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.</p>
+<p>6 I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O Lord my God.</p>
+<p>7 When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple.</p>
+<p>8 They that observe lying vanities forsake their own mercy.</p>
+<p>9 But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.</p>
+<p>10 And the Lord spake unto the fish, and it vomited out Jonah upon the dry land.</p>
+<h2><a class="header" href="#jonah-chapter-3" id="jonah-chapter-3">Jonah Chapter 3</a></h2>
+<p>1 And the word of the Lord came unto Jonah the second time, saying,</p>
+<p>2 Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.</p>
+<p>3 So Jonah arose, and went unto Nineveh, according to the word of the Lord. Now Nineveh was an exceeding great city of three days' journey.</p>
+<p>4 And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.</p>
+<p>5 So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.</p>
+<p>6 For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes.</p>
+<p>7 And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:</p>
+<p>8 But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.</p>
+<p>9 Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?</p>
+<p>10 And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.</p>
+<h2><a class="header" href="#jonah-chapter-4" id="jonah-chapter-4">Jonah Chapter 4</a></h2>
+<p>1 But it displeased Jonah exceedingly, and he was very angry.</p>
+<p>2 And he prayed unto the Lord, and said, I pray thee, O Lord, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.</p>
+<p>3 Therefore now, O Lord, take, I beseech thee, my life from me; for it is better for me to die than to live.</p>
+<p>4 Then said the Lord, Doest thou well to be angry?</p>
+<p>5 So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.</p>
+<p>6 And the Lord God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.</p>
+<p>7 But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.</p>
+<p>8 And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.</p>
+<p>9 And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.</p>
+<p>10 Then said the Lord, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:</p>
+<p>11 And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?</p>
+<h2><a class="header" href="#eof" id="eof">eof</a></h2>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="31-Obadiah.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="33-Micah.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="31-Obadiah.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="33-Micah.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
