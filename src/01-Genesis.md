@@ -9,6 +9,8 @@
 
 3 And God said, Let there be light: and there was light.
 
+![The Creation of Light by Gustav Dore](./images/aGen0103Dore_TheCreationOfLightL.jpg)
+
 4 And God saw the light, that it was good: and God divided the light from the darkness.
 
 5 And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
