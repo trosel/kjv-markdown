@@ -1,7 +1,7 @@
 
 # Genesis
 
-## Genesis Chapter 1
+## Chapter 1
 
 1 In the beginning God created the heaven and the earth.
 
@@ -9,7 +9,7 @@
 
 3 And God said, Let there be light: and there was light.
 
-![The Creation of Light by Gustav Dore](./images/aGen0103Dore_TheCreationOfLightL.jpg)
+![The Creation of Light by Gustav Doré](./images/aGen0103Dore_TheCreationOfLightL.jpg)
 
 4 And God saw the light, that it was good: and God divided the light from the darkness.
 
@@ -68,7 +68,7 @@
 31 And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.
 
 
-## Genesis Chapter 2
+## Chapter 2
 
 1 Thus the heavens and the earth were finished, and all the host of them.
 
@@ -114,6 +114,8 @@
 
 22 And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man.
 
+![The Formation of Eve by Gustav Doré](./images/aGen0221Dore_TheFormationOfEveL.jpg)
+
 23 And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
 
 24 Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
@@ -121,7 +123,7 @@
 25 And they were both naked, the man and his wife, and were not ashamed.
 
 
-## Genesis Chapter 3
+## Chapter 3
 
 1 Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 
@@ -171,8 +173,9 @@
 
 24 So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
 
+![Adam and Even Driven out of Eden by Gustav Doré](./images/aGen0324Dore_AdamAndEveDrivenOutOfEdenL.jpg)
 
-## Genesis Chapter 4
+## Chapter 4
 
 1 And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.
 
@@ -184,6 +187,8 @@
 
 5 But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
 
+![Cain and Abel Offering their Sacrifices by Gustav Doré](./images/aGen0403Dore_CainAndAbelOfferingTheirSacrificesL.jpg)
+
 6 And the Lord said unto Cain, Why art thou wroth? and why is thy countenance fallen?
 
 7 If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
@@ -191,6 +196,8 @@
 8 And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 
 9 And the Lord said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?
+
+![The Death of Abel by Gustav Doré](./images/aGen0408Dore_TheDeathOfAbelL.jpg)
 
 10 And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.
 
@@ -227,7 +234,7 @@
 26 And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the Lord.
 
 
-## Genesis Chapter 5
+## Chapter 5
 
 1 This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;
 
@@ -294,7 +301,7 @@
 32 And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.
 
 
-## Genesis Chapter 6
+## Chapter 6
 
 1 And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 
@@ -341,7 +348,7 @@
 22 Thus did Noah; according to all that God commanded him, so did he.
 
 
-## Genesis Chapter 7
+## Chapter 7
 
 1 And the Lord said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
 
@@ -391,8 +398,9 @@
 
 24 And the waters prevailed upon the earth an hundred and fifty days.
 
+![The World Destroyed by Water by Gustav Doré](./images/aGen0724Dore_TheWorldDestroyedByWaterL.jpg)
 
-## Genesis Chapter 8
+## Chapter 8
 
 1 And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters assuaged;
 
@@ -415,6 +423,8 @@
 10 And he stayed yet other seven days; and again he sent forth the dove out of the ark;
 
 11 And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.
+
+![The Dove Sent Forth from the Ark by Gustav Doré](./images/aGen0811Dore_TheDoveSentForthFromTheArkL.jpg)
 
 12 And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.
 
@@ -439,7 +449,7 @@
 22 While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
 
 
-## Genesis Chapter 9
+## Chapter 9
 
 1 And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.
 
@@ -491,6 +501,8 @@
 
 25 And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren.
 
+![Noah Cursing Canaan by Gustav Doré](./images/aGen0924Dore_NoahCursingCanaanL.jpg)
+
 26 And he said, Blessed be the Lord God of Shem; and Canaan shall be his servant.
 
 27 God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.
@@ -500,7 +512,7 @@
 29 And all the days of Noah were nine hundred and fifty years: and he died.
 
 
-## Genesis Chapter 10
+## Chapter 10
 
 1 Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.
 
@@ -567,7 +579,7 @@
 32 These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.
 
 
-## Genesis Chapter 11
+## Chapter 11
 
 1 And the whole earth was of one language, and of one speech.
 
@@ -584,6 +596,8 @@
 7 Go to, let us go down, and there confound their language, that they may not understand one another's speech.
 
 8 So the Lord scattered them abroad from thence upon the face of all the earth: and they left off to build the city.
+
+![The Confusion of Tongues by Gustav Doré](./images/aGen1106Dore_TheConfusionOfTonguesL.jpg)
 
 9 Therefore is the name of it called Babel; because the Lord did there confound the language of all the earth: and from thence did the Lord scatter them abroad upon the face of all the earth.
 
@@ -634,9 +648,11 @@
 32 And the days of Terah were two hundred and five years: and Terah died in Haran.
 
 
-## Genesis Chapter 12
+## Chapter 12
 
 1 Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:
+
+![Abraham Journeying into the land of Canaan by Gustav Doré](./images/aGen1201Dore_AbrahamJourneyingIntoTheLandOfCanaanL.jpg)
 
 2 And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:
 
@@ -677,7 +693,7 @@
 20 And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had.
 
 
-## Genesis Chapter 13
+## Chapter 13
 
 1 And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
 
@@ -716,7 +732,7 @@
 18 Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the Lord.
 
 
-## Genesis Chapter 14
+## Chapter 14
 
 1 And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;
 
@@ -767,7 +783,7 @@
 24 Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
 
 
-## Genesis Chapter 15
+## Chapter 15
 
 1 After these things the word of the Lord came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward.
 
@@ -812,7 +828,7 @@
 21 And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.
 
 
-## Genesis Chapter 16
+## Chapter 16
 
 1 Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.
 
@@ -847,7 +863,7 @@
 16 And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.
 
 
-## Genesis Chapter 17
+## Chapter 17
 
 1 And when Abram was ninety years old and nine, the Lord appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.
 
@@ -904,7 +920,7 @@
 27 And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him.
 
 
-## Genesis Chapter 18
+## Chapter 18
 
 1 And the Lord appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;
 
@@ -925,6 +941,8 @@
 9 And they said unto him, Where is Sarah thy wife? And he said, Behold, in the tent.
 
 10 And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard it in the tent door, which was behind him.
+
+![Abraham and the Three Angels by Gustav Doré](./images/aGen1809Dore_AbrahamAndTheThreeAngelsL.jpg)
 
 11 Now Abraham and Sarah were old and well stricken in age; and it ceased to be with Sarah after the manner of women.
 
@@ -973,7 +991,7 @@
 33 And the Lord went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
 
 
-## Genesis Chapter 19
+## Chapter 19
 
 1 And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;
 
@@ -1027,6 +1045,8 @@
 
 26 But his wife looked back from behind him, and she became a pillar of salt.
 
+![The Flight of Lot by Gustav Doré](./images/aGen1924Dore_TheFlightOfLotL.jpg)
+
 27 And Abraham gat up early in the morning to the place where he stood before the Lord:
 
 28 And he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace.
@@ -1052,7 +1072,7 @@
 38 And the younger, she also bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day.
 
 
-## Genesis Chapter 20
+## Chapter 20
 
 1 And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.
 
@@ -1091,7 +1111,7 @@
 18 For the Lord had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife.
 
 
-## Genesis Chapter 21
+## Chapter 21
 
 1 And the Lord visited Sarah as he had said, and the Lord did unto Sarah as he had spoken.
 
@@ -1121,6 +1141,8 @@
 
 14 And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave it unto Hagar, putting it on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beersheba.
 
+![The Expulsion of Ishmael and His Mother by Gustav Doré](./images/aGen2114Dore_TheExpulsionOfIshmaelAndHisMotherL.jpg)
+
 15 And the water was spent in the bottle, and she cast the child under one of the shrubs.
 
 16 And she went, and sat her down over against him a good way off, as it were a bow shot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept.
@@ -1128,6 +1150,8 @@
 17 And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is.
 
 18 Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation.
+
+![Hagar and Ishmael in the Wilderness by Gustav Doré](./images/aGen2117Dore_HagarAndIshmaelInTheWildernessL.jpg)
 
 19 And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.
 
@@ -1162,7 +1186,7 @@
 34 And Abraham sojourned in the Philistines' land many days.
 
 
-## Genesis Chapter 22
+## Chapter 22
 
 1 And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
 
@@ -1187,6 +1211,8 @@
 11 And the angel of the Lord called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.
 
 12 And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.
+
+![The Trial of Abraham's Faith by Gustav Doré](./images/aGen2210Dore_TheTrialOfAbraham_sFaithL.jpg)
 
 13 And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
 
@@ -1213,7 +1239,7 @@
 24 And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.
 
 
-## Genesis Chapter 23
+## Chapter 23
 
 1 And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah.
 
@@ -1253,10 +1279,12 @@
 
 19 And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre: the same is Hebron in the land of Canaan.
 
+![The Burial of Sarah by Gustav Doré](./images/aGen2319Dore_TheBurialOfSarahL.jpg)
+
 20 And the field, and the cave that is therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth.
 
 
-## Genesis Chapter 24
+## Chapter 24
 
 1 And Abraham was old, and well stricken in age: and the Lord had blessed Abraham in all things.
 
@@ -1289,6 +1317,8 @@
 15 And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder.
 
 16 And the damsel was very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up.
+
+![Eliezer and Rebekah by Gustav Doré](./images/aGen2416Dore_EliezerAndRebekahL.jpg)
 
 17 And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher.
 
@@ -1392,8 +1422,9 @@
 
 67 And Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother's death.
 
+![The Meeting of Isaac and Rebekah by Gustav Doré](./images/aGen2465Dore_TheMeetingOfIsaacAndRebekahL.jpg)
 
-## Genesis Chapter 25
+## Chapter 25
 
 1 Then again Abraham took a wife, and her name was Keturah.
 
@@ -1464,7 +1495,7 @@
 34 Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
 
 
-## Genesis Chapter 26
+## Chapter 26
 
 1 And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.
 
@@ -1537,7 +1568,7 @@
 35 Which were a grief of mind unto Isaac and to Rebekah.
 
 
-## Genesis Chapter 27
+## Chapter 27
 
 1 And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I.
 
@@ -1597,6 +1628,8 @@
 
 29 Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother's sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee.
 
+![Isaac Blessing Jacob by Gustav Doré](./images/aGen2729Dore_IsaacBlessingJacobL.jpg)
+
 30 And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
 
 31 And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son's venison, that thy soul may bless me.
@@ -1632,7 +1665,7 @@
 46 And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?
 
 
-## Genesis Chapter 28
+## Chapter 28
 
 1 And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.
 
@@ -1658,6 +1691,8 @@
 
 12 And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.
 
+![Jacob's Dream by Gustav Doré](./images/aGen2812Dore_Jacob_sDreamL.jpg)
+
 13 And, behold, the Lord stood above it, and said, I am the Lord God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;
 
 14 And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.
@@ -1679,7 +1714,7 @@
 22 And this stone, which I have set for a pillar, shall be God's house: and of all that thou shalt give me I will surely give the tenth unto thee.
 
 
-## Genesis Chapter 29
+## Chapter 29
 
 1 Then Jacob went on his journey, and came into the land of the people of the east.
 
@@ -1721,6 +1756,8 @@
 
 20 And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her.
 
+![Jacob Keeping Laban's Flocks by Gustav Doré](./images/aGen2920Dore_JacobKeepingLaban_sFlocksL.jpg)
+
 21 And Jacob said unto Laban, Give me my wife, for my days are fulfilled, that I may go in unto her.
 
 22 And Laban gathered together all the men of the place, and made a feast.
@@ -1752,7 +1789,7 @@
 35 And she conceived again, and bare a son: and she said, Now will I praise the Lord: therefore she called his name Judah; and left bearing.
 
 
-## Genesis Chapter 30
+## Chapter 30
 
 1 And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
 
@@ -1841,7 +1878,7 @@
 43 And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses.
 
 
-## Genesis Chapter 31
+## Chapter 31
 
 1 And he heard the words of Laban's sons, saying, Jacob hath taken away all that was our father's; and of that which was our father's hath he gotten all this glory.
 
@@ -1954,7 +1991,7 @@
 55 And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.
 
 
-## Genesis Chapter 32
+## Chapter 32
 
 1 And Jacob went on his way, and the angels of God met him.
 
@@ -1977,6 +2014,8 @@
 10 I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.
 
 11 Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, and the mother with the children.
+
+![The Prayer of Jacob by Gustav Doré](./images/aGen3211Dore_ThePrayerOfJacobL.jpg)
 
 12 And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.
 
@@ -2004,6 +2043,8 @@
 
 24 And Jacob was left alone; and there wrestled a man with him until the breaking of the day.
 
+![Jacob Wrestling with the Angel by Gustav Doré](./images/aGen3224Dore_JacobWrestlingWithTheAngelL.jpg)
+
 25 And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.
 
 26 And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.
@@ -2021,7 +2062,7 @@
 32 Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob's thigh in the sinew that shrank.
 
 
-## Genesis Chapter 33
+## Chapter 33
 
 1 And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.
 
@@ -2030,6 +2071,8 @@
 3 And he passed over before them, and bowed himself to the ground seven times, until he came near to his brother.
 
 4 And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.
+
+![The Meeting of Jacob and Esau by Gustav Doré](./images/aGen3303Dore_TheMeetingOfJacobAndEsauL.jpg)
 
 5 And he lifted up his eyes, and saw the women and the children; and said, Who are those with thee? And he said, The children which God hath graciously given thy servant.
 
@@ -2064,7 +2107,7 @@
 20 And he erected there an altar, and called it EleloheIsrael.
 
 
-## Genesis Chapter 34
+## Chapter 34
 
 1 And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.
 
@@ -2129,7 +2172,7 @@
 31 And they said, Should he deal with our sister as with an harlot?
 
 
-## Genesis Chapter 35
+## Chapter 35
 
 1 And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother.
 
@@ -2190,7 +2233,7 @@
 29 And Isaac gave up the ghost, and died, and was gathered unto his people, being old and full of days: and his sons Esau and Jacob buried him.
 
 
-## Genesis Chapter 36
+## Chapter 36
 
 1 Now these are the generations of Esau, who is Edom.
 
@@ -2279,7 +2322,7 @@
 43 Duke Magdiel, duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites.
 
 
-## Genesis Chapter 37
+## Chapter 37
 
 1 And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.
 
@@ -2337,6 +2380,8 @@
 
 28 Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt.
 
+![Joseph Sold By His Brethren by Gustav Doré](./images/aGen3728Dore_JosephSoldByHisBrethrenL.jpg)
+
 29 And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes.
 
 30 And he returned unto his brethren, and said, The child is not; and I, whither shall I go?
@@ -2354,7 +2399,7 @@
 36 And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard.
 
 
-## Genesis Chapter 38
+## Chapter 38
 
 1 And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.
 
@@ -2417,7 +2462,7 @@
 30 And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.
 
 
-## Genesis Chapter 39
+## Chapter 39
 
 1 And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
 
@@ -2466,7 +2511,7 @@
 23 The keeper of the prison looked not to any thing that was under his hand; because the Lord was with him, and that which he did, the Lord made it to prosper.
 
 
-## Genesis Chapter 40
+## Chapter 40
 
 1 And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
 
@@ -2515,7 +2560,7 @@
 23 Yet did not the chief butler remember Joseph, but forgat him.
 
 
-## Genesis Chapter 41
+## Chapter 41
 
 1 And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
 
@@ -2568,6 +2613,8 @@
 25 And Joseph said unto Pharaoh, The dream of Pharaoh is one: God hath shewed Pharaoh what he is about to do.
 
 26 The seven good kine are seven years; and the seven good ears are seven years: the dream is one.
+
+![Joseph Interpreting Pharaoh's Dream by Gustav Doré](./images/aGen4125Dore_JosephInterpretingPharaoh_sDreamL.jpg)
 
 27 And the seven thin and ill favoured kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.
 
@@ -2632,7 +2679,7 @@
 57 And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands.
 
 
-## Genesis Chapter 42
+## Chapter 42
 
 1 Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?
 
@@ -2711,7 +2758,7 @@
 38 And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.
 
 
-## Genesis Chapter 43
+## Chapter 43
 
 1 And the famine was sore in the land.
 
@@ -2782,7 +2829,7 @@
 34 And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of their's. And they drank, and were merry with him.
 
 
-## Genesis Chapter 44
+## Chapter 44
 
 1 And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth.
 
@@ -2853,9 +2900,11 @@
 34 For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father.
 
 
-## Genesis Chapter 45
+## Chapter 45
 
 1 Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.
+
+![Joseph Makes Himself Known to his Brethren by Gustav Doré](./images/aGen4501Dore_JosephMakesHimselfKnownToHisBrethrenL.jpg)
 
 2 And he wept aloud: and the Egyptians and the house of Pharaoh heard.
 
@@ -2912,7 +2961,7 @@
 28 And Israel said, It is enough; Joseph my son is yet alive: I will go and see him before I die.
 
 
-## Genesis Chapter 46
+## Chapter 46
 
 1 And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac.
 
@@ -2923,6 +2972,8 @@
 4 I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes.
 
 5 And Jacob rose up from Beersheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
+
+![Jacob Goeth into Egypt by Gustav Doré](./images/aGen4605Dore_JacobGoethIntoEgyptL.jpg)
 
 6 And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:
 
@@ -2983,7 +3034,7 @@
 34 That ye shall say, Thy servants' trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
 
 
-## Genesis Chapter 47
+## Chapter 47
 
 1 Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.
 
@@ -3048,7 +3099,7 @@
 31 And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head.
 
 
-## Genesis Chapter 48
+## Chapter 48
 
 1 And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim.
 
@@ -3095,7 +3146,7 @@
 22 Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.
 
 
-## Genesis Chapter 49
+## Chapter 49
 
 1 And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
 
@@ -3164,7 +3215,7 @@
 33 And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.
 
 
-## Genesis Chapter 50
+## Chapter 50
 
 1 And Joseph fell upon his father's face, and wept upon him, and kissed him.
 
